@@ -1,0 +1,1 @@
+将js文件拷贝到build，然后直接执行dispose.bat批处理文件，压缩后的结果在TransportedFiles文件夹中。
